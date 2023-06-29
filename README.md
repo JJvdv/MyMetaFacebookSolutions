@@ -11,13 +11,13 @@
 * Uniform Integers - Completed
 
 #### Level 2:
-* Director of Photography 2
+* Director of Photography 2 - Completed
 * Hops
 * Missing Mail
 * Portals
 * Rabbit Hole 1
 * Rotary Lock 2
-* Scoreboard Inference 2
+* Scoreboard Inference 2 - Completed
 * Tunnel Time
 
 #### Level 3:
