@@ -7,8 +7,8 @@
 * Kaitenzushi - Completed
 * Rotary Lock 1 - Completed
 * Scoreboard Inference 1 - Completed
-* Stack Stabilization 1
-* Uniform Integers
+* Stack Stabilization 1 - Completed
+* Uniform Integers - Completed
 
 #### Level 2:
 * Director of Photography 2
