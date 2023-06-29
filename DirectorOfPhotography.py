@@ -1,3 +1,6 @@
+###
+# Works for both puzzles - Director of Photography 1 & 2
+###
 def get_artistic_photograph_count(N, C, X, Y):
     count = 0
     B = [0] * (N + 1)
