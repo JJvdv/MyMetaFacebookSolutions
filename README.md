@@ -12,7 +12,7 @@
 
 #### Level 2:
 * Director of Photography 2 - Completed
-* Hops
+* Hops - Completed
 * Missing Mail
 * Portals
 * Rabbit Hole 1
