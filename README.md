@@ -1,5 +1,5 @@
 # MyMetaSolutions
-## All my solutions to the Meta Coding Puzzles
+## All my solutions to the Meta / Facebook Coding Puzzles
 
 #### Level 1:
 * Cafeteria - Completed
